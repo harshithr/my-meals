@@ -1,6 +1,5 @@
 {
   "name": "test-meal",
-  "homepage": "https://harshithr.github.io/my-meals",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
