@@ -1,0 +1,29 @@
+.listGroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+}
+
+.listA {
+  color: white;
+  text-decoration: none;
+}
+
+.list {
+  transition: transform 0.2s;
+  cursor: pointer;
+  width: 250px;
+}
+
+.list img {
+  width: 100%;
+}
+
+.list:hover {
+  transform: scale(1.1);
+}
+
+.list h3 {
+  text-align: center;
+}
